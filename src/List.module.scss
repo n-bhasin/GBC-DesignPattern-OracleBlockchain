@@ -1,0 +1,13 @@
+.userList {
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  &:hover {
+    background-color: #ebedf0;
+    cursor: pointer;
+  }
+}
